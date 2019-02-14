@@ -1,12 +1,12 @@
 # labpy03
 
-Cara membuat program yang menampilkan nilai N bilangan acak yang lebih kecil dari 0.5
+# Cara membuat program yang menampilkan nilai N bilangan acak yang lebih kecil dari 0.5
 
 1. Buka sublime text
 
 ![alt teks](1.png)
 
-2. Masukkan kode input yang berfungsi untuk memasukkan data yang mau di program
+2. Masukkan kode input yang berfungsi untuk memasukkan data yang ingin di program
 
 ![alt teks](2.png)
 
@@ -37,13 +37,13 @@ Cara membuat program yang menampilkan nilai N bilangan acak yang lebih kecil dar
 
 
 
-Cara membuat program untuk menampilkan bilangan terbesar dan break/berhenti jika di beri input-an 0
+# Cara membuat program untuk menampilkan bilangan terbesar dan break/berhenti jika di beri input-an 0
 
 1. Buka sublime text
 
 ![alt teks](1.png)
 
-2. Masukkan kode input yang berfungsi untuk memasukkan data yang mau di program
+2. Masukkan kode input yang berfungsi untuk memasukkan data yang ingin di program
 
 ![alt teks](9.png)
 
@@ -74,13 +74,13 @@ Cara membuat program untuk menampilkan bilangan terbesar dan break/berhenti jika
 
 
 
-Cara membuat program sederhana dengan perulangan
+# Cara membuat program sederhana dengan perulangan
 
 1. Buka sublime text
 
 ![alt teks](1.png)
 
-2. Masukkan kode input yang berfungsi untuk memasukkan data yang mau di program
+2. Masukkan kode input yang berfungsi untuk memasukkan data yang ingin di program
 
 ![alt teks](16.png)
 
