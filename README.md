@@ -1,5 +1,6 @@
 # labpy03
 
+
 # Cara membuat program yang menampilkan nilai N bilangan acak yang lebih kecil dari 0.5
 
 1. Buka sublime text
@@ -113,4 +114,4 @@ Sekian dari saya
 
 Terima Kasih
 
-(note:Maaf pemberian nama dan nim pada program hanya di program1.py saja karna saya lupa dan terlanjur)
+(note: Maaf pemberian nama dan nim pada program hanya di program1.py saja karna saya lupa dan terlanjur)
